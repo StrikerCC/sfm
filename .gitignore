@@ -1,0 +1,9 @@
+*.so
+*.zip
+__pycache__/
+.idea/
+data/
+*.png
+*.jpg
+*.json
+
